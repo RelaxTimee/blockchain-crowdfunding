@@ -1,6 +1,8 @@
 # Git และ GitHub Pages ทีละขั้นตอน
 
-คำสั่งด้านล่างใช้ PowerShell บน Windows ตาม workspace นี้ โค้ดพร้อมสำหรับ repository แยกชื่อ `blockchain-crowdfunding` ขั้นตอนนี้ยังไม่ได้สร้าง repository, push หรือ deploy จริงให้ผู้ใช้
+Repository จริงคือ [RelaxTimee/blockchain-crowdfunding](https://github.com/RelaxTimee/blockchain-crowdfunding) และตั้งค่า Pages แบบ GitHub Actions แล้ว เว็บไซต์อยู่ที่ [InnovateFund](https://relaxtimee.github.io/blockchain-crowdfunding/) ดูสถานะ deployment ล่าสุดได้ที่ [Actions](https://github.com/RelaxTimee/blockchain-crowdfunding/actions/workflows/pages.yml)
+
+คำสั่งด้านล่างใช้ PowerShell บน Windows และอธิบายขั้นตอนตั้งแต่เริ่มต้นสำหรับนำไปใช้ซ้ำ ใน checkout นี้มี Git และ remote อยู่แล้ว สามารถใช้ขั้นตอนอัปเดตเว็บภายหลังได้เลย
 
 ## 1. ตรวจงานในเครื่อง
 

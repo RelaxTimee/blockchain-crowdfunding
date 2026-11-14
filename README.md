@@ -4,6 +4,8 @@ Frontend สำหรับ Blockchain Crowdfunding & Milestone Fund Management 
 
 **Contract:** [`0x7AdC7237D1E4aC47C8E315e10711428c431bAF6B`](https://sepolia.etherscan.io/address/0x7AdC7237D1E4aC47C8E315e10711428c431bAF6B#code) · Chain ID `11155111`
 
+**เว็บไซต์:** [เปิด InnovateFund](https://relaxtimee.github.io/blockchain-crowdfunding/) · **Repository:** [RelaxTimee/blockchain-crowdfunding](https://github.com/RelaxTimee/blockchain-crowdfunding) · **CI/CD:** [GitHub Actions](https://github.com/RelaxTimee/blockchain-crowdfunding/actions/workflows/pages.yml)
+
 ![InnovateFund dashboard reading live Sepolia data](docs/preview.jpg)
 
 ## เปิดใช้งาน

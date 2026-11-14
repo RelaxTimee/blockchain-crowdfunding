@@ -61,7 +61,7 @@ npm run check:sepolia
 ## ขอบเขตที่ยังต้องทดสอบด้วยบัญชีผู้ใช้
 
 - การอนุมัติ popup ของ MetaMask/Wallet จริง และการทำธุรกรรมบน public Sepolia ไม่ได้ทำแทนผู้ใช้
-- GitHub repository ยังไม่ได้สร้างหรือ push; workflow และ Pages deployment ยังต้องรันบน GitHub ตามคู่มือ
+- GitHub repository สร้างและ push ไปที่ [RelaxTimee/blockchain-crowdfunding](https://github.com/RelaxTimee/blockchain-crowdfunding) แล้ว และเปิด Pages ผ่าน Actions ตรวจผลรันล่าสุดได้ที่ [workflow](https://github.com/RelaxTimee/blockchain-crowdfunding/actions/workflows/pages.yml)
 - ตรวจ bytecode ว่ามี code จริงและบันทึก hash; ไม่ได้ independently reproduce runtime bytecode พร้อม compiler metadata เทียบกับ deploy
 - Browser QA เป็นการตรวจ flow และ layout สำคัญ ไม่ครอบคลุมทุก browser/Wallet extension หรือผู้ใช้พร้อมกันจำนวนมาก
 - ไม่มีข้อรับประกัน bug-free หรือ security audit สำหรับเงินจริง; backend มีข้อจำกัดตาม `CONTRACT_ANALYSIS.md`
