@@ -1,0 +1,17 @@
+{
+  "checkedAt": "2026-11-14T22:47:02.827Z",
+  "address": "0x7AdC7237D1E4aC47C8E315e10711428c431bAF6B",
+  "chainId": "11155111",
+  "sourceUrl": "https://sepolia.etherscan.io/address/0x7AdC7237D1E4aC47C8E315e10711428c431bAF6B#code",
+  "creationTransaction": "0x24e3ca3eb98da5c29613c61ae76c040bce072eeb9126de6884629622de76363d",
+  "creationBlock": 12132435,
+  "snapshotBlock": 12136171,
+  "blockTimestamp": 1794696420,
+  "campaignCount": "0",
+  "contractBalanceWei": "0",
+  "approvalPercent": "50",
+  "runtimeBytecodeKeccak256": "0x5d4089fe55ec9cfcdeec9432fc410aee96c48ae0121f99ec86186bc75d8fb0c2",
+  "sourceSha256": "07e15663f3902cc672f96198b6f8b2ce2c7690e9e91d565e29f0b07df0489d74",
+  "abiSha256": "7ede496aeb274a177fbf18ec0008011d9c92db463bf25540d318405cd8dc7703",
+  "scope": "Read-only live Sepolia verification; no transactions submitted. Source and ABI downloaded from Etherscan. Runtime hash recorded, not independently recompiled to match deployed metadata."
+}
